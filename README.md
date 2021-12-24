@@ -7,3 +7,5 @@
 new-featureで変更
 
 no-fast
+
+コンフリクト　main
