@@ -11,3 +11,5 @@ no-fast
 コンフリクト conflict
 
 fetch確認
+
+コンフリクト　リモートリポジトリ
