@@ -5,3 +5,5 @@
 更新
 
 new-featureで変更
+
+no-fast
